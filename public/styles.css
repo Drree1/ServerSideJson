@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #C50E2C;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+ul,
+li{
+    list-style-type: none;
+    display: block;
+    margin: 10px;
+    font-weight: bold;
+    
+}
+
+section{
+    background-color: #1E408A;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    
+  }
